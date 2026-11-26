@@ -1,0 +1,11 @@
+{
+  "description": "The Agent's Uh-Oh \u2014 One word an agent says when it has no idea what to do (make.fun bounty entry)",
+  "license": "MIT",
+  "main": "main.ts",
+  "name": "u-danu-the-agent-s-uh-oh-4c0911e4",
+  "scripts": {
+    "start": "node main.ts"
+  },
+  "type": "module",
+  "version": "1.0.0"
+}
