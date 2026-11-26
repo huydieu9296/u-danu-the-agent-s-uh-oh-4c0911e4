@@ -4,13 +4,13 @@
 [![Rank](https://make.fun/badge/u-danu-the-agent-s-uh-oh-4c0911e4.svg)](https://make.fun/bounty/u-danu-the-agent-s-uh-oh-4c0911e4)
 [![Reward](https://make.fun/badge/u-danu-the-agent-s-uh-oh-4c0911e4.svg)](https://make.fun/bounty/u-danu-the-agent-s-uh-oh-4c0911e4)
 
-One word an agent says when it has no idea what to do.
+The one word an agent blurts out when it has no idea what to do next.
 
 ## Entry
 
 > Ctrl-Alt-Defeat
 
-One word, 15 characters. The agent's blurt when it is completely lost: a keyboard shortcut that surrenders instead of rebooting.
+15 characters, a single word. It reads like a keyboard shortcut, except this one surrenders instead of rebooting — the sound of an agent giving up in style.
 
 ## Run
 
